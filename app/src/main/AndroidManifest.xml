@@ -16,6 +16,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LoginActivity"
+        android:label="Login"/>
+        <activity android:name=".RegisterActivity"
+            android:label="Register"/>
+        <activity android:name=".MenuActivity"
+            android:label="Menu"/>
+        <activity android:name=".ProfileActivity"
+            android:label="Profile"/>
+        <activity android:name=".AccommodationActivity"
+            android:label="Accommodation"/>
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
