@@ -24,7 +24,7 @@
             android:label="Menu"/>
         <activity android:name=".ProfileActivity"
             android:label="Profile"/>
-        <activity android:name=".AccommodationActivity"
+        <activity android:name=".AccomActivity"
             android:label="Accommodation"/>
         <meta-data
             android:name="preloaded_fonts"
