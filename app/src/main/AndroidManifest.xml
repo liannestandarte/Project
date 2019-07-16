@@ -25,9 +25,3 @@
             android:label="Profile"/>
         <activity android:name=".AccommodationActivity"
             android:label="Accommodation"/>
-        <meta-data
-            android:name="preloaded_fonts"
-            android:resource="@array/preloaded_fonts" />
-    </application>
-
-</manifest>
