@@ -6,4 +6,5 @@
     <color name="bg">#121212</color>
     <color name="textColorPrimary">#FFFFFF</color>
     <color name="line">#FFFFFF</color>
+    <color name="title_color">#FFFFFF</color>
 </resources>
